@@ -1,0 +1,1 @@
+Old CLI-based Mahjong game I made in highschool. No AI support. 3 or 4 player functionality. Text-based interface is quite crude. Yaku are not appropriately implemented. Might return to this at some point for an overhaul.
